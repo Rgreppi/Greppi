@@ -41,6 +41,6 @@ ___
 
 ---
 
-[![HTML](https://img.shields.io/badge/-LINKEDIN-070404?style=for-the-badge&logoSize=auto)](https://www.linkedin.com/in/roberto-greppi-folleco-5aa9721aa/)
+[![HTML](https://img.shields.io/badge/-LINKEDIN-070404?style=for-the-badge&logoSize=auto)](https://www.linkedin.com/in/roberto-greppi/)
 
 </div>
