@@ -18,7 +18,7 @@ I am always looking for opportunities to collaborate on open-source projects, au
 ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rgreppi&theme=aura&show_icons=true)
-[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Rgreppi&layout=compact&theme=aura)](https://github.com/Rgreppi/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgreppi&layout=compact&theme=aura)](https://github.com/Rgreppi/github-readme-stats)
 
 ---
 
